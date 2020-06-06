@@ -52,7 +52,6 @@ Don’t have Internet access on your DBA workstation? Check out our offline inst
         then you can just download the zip directly from the Gallery’s API.
         Note that this will download a file ending in .nupkg. Simply rename the file to .zip, extract and you’re set. 
 
-
 Method 7: chocolatey!
     Now, you can even install dbatools using chocolatey:
     choco install dbatools
